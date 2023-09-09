@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="movie_app_tool_bar_text">Movie App</string>
+    <string name="movie_screen_select_catogry_text">please select category</string>
+    <string name="movie_screen_no_image_description">no image</string>
+    <string name="movieCategoryText">Movie Category :</string>
+</resources>
